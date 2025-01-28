@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Qayyum</h1>
 <h3 align="center">AI Engineer | Enthusiast </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qayyum188" alt="qayyum188" /></a> </p>
-
 - 🔭 I’m currently working on [Multi-Agent Sales Chatbot](https://github.com/qayyum188/MultiAgent-Chatbot-with-Customer-Evaluation)
 
 - 🌱 I’m currently learning **Agentic AI, AGI**
